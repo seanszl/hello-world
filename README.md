@@ -1,2 +1,7 @@
 # hello-world
-just a test
+
+Hi Humans!
+
+Sean here, I like python and perl. 
+
+I major in bioinformatics.
